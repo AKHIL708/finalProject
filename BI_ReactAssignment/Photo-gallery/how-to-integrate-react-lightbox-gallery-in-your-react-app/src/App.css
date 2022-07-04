@@ -1,0 +1,18 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center; 
+}
+.navbar h1{
+  text-shadow: 2px 2px 4px gray;
+  text-decoration: underline;
+
+}
+.mainStyle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
